@@ -1,0 +1,5 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FileWriter\FileWriter\bin\Debug\FileWriter.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FileWriter\FileWriter\bin\Debug\FileWriter.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FileWriter\FileWriter\bin\Debug\FileWriter.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FileWriter\FileWriter\obj\Debug\FileWriter.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\FileWriter\FileWriter\obj\Debug\FileWriter.pdb
